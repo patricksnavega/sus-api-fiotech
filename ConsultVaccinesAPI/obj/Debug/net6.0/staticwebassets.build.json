@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xif9KRHJDdsm30M6KA/8lMP5kCDiW7yeuCkqWvAb7E0=",
+  "Source": "ConsultVaccinesAPI",
+  "BasePath": "_content/ConsultVaccinesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
